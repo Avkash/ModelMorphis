@@ -46,20 +46,20 @@ Model Morphis
 
 |Model|ONNX|Keras|TensorFlow Lite|TensorFlow.js|TensorFlow|PyTorch|Torch|CoreML|Caffe|Caffe2|MXNet|TorchScript|NCNN|CNTK|Deeplearning4j|PaddlePaddle|Darknet|scikit-learn|H2O.ai|Spark Mlib & PySpark|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
-|ONNX   |  |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Keras   |  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TensorFlow Lite | |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TensorFlow.js| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TensorFlow| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|PyTorch|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Torch|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|CoreML|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Caffe|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Caffe2|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|MXNet|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TorchScript| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|NCNN|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|CNTK|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|ONNX|   X |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Keras|    | X  |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|TensorFlow Lite | |   | X  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|TensorFlow.js| |   |   |   | X |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|TensorFlow|    |   |   |    |   X |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|PyTorch|     |   |   |    |    |  X  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Torch|    |   |   |    |    |    | X   |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|CoreML|  |   |   |    |    |    |    |  X  |    |    |    |    |    |    |    |    |    |    |    |    |
+|Caffe|  |   |   |    |    |    |    |    |  X  |    |    |    |    |    |    |    |    |    |    |    |
+|Caffe2|   |   |   |    |    |    |    |    |    |  X  |    |    |    |    |    |    |    |    |    |    |
+|MXNet|   |   |   |    |    |    |    |    |    |    |  X  |    |    |    |    |    |    |    |    |    |
+|TorchScript|   |  |   |   |   |   |   |   |    |    |    | X   |    |    |    |    |    |    |    |    |
+|NCNN|  |   |   |    |    |    |    |   |   |   |  |   |    |  X  |    |    |    |    |    |    |
+|CNTK|  |   |   |    |    |    |    |    |    |    |    |    |    |  X |   |    |    |    |    |    |
 |Deeplearning4j|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |PaddlePaddle|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 |Darknet|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
