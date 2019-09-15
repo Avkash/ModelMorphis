@@ -46,26 +46,26 @@ Model Morphis
 
 |Model|ONNX|Keras|TensorFlow Lite|TensorFlow.js|TensorFlow|PyTorch|Torch|CoreML|Caffe|Caffe2|MXNet|TorchScript|NCNN|CNTK|Deeplearning4j|PaddlePaddle|Darknet|scikit-learn|H2O.ai|Spark Mlib & PySpark|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| 
-|ONNX   | .onnx, .pb, .pbtxt  |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Keras   | .h5, .keras  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TensorFlow Lite    |.tflite   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TensorFlow.js   |model.json, .pb   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TensorFlow   |.pb, .meta, .pbtxt   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|PyTorch   | .pt, .pth  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Torch   |.t7   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|CoreML   | .mlmodel  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Caffe    | .caffemodel, .prototxt  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Caffe2   |predict_net.pb, predict_net.pbtxt   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|MXNet  | .model, -symbol.json  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|TorchScript   |.pt, .pth   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|NCNN   | .param  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|CNTK   | .model, .cntk  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Deeplearning4j   |.zip   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|PaddlePaddle   |.zip, __model__   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Darknet   |.cfg   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|scikit-learn   | .pkl  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|H2O.ai    |MOJO Models .zip   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
-|Spark Mlib & PySpark  | .ml  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|ONNX   |  |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Keras   |  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|TensorFlow Lite | |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|TensorFlow.js| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|TensorFlow| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|PyTorch|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Torch|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|CoreML|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Caffe|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Caffe2|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|MXNet|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|TorchScript| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|NCNN|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|CNTK|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Deeplearning4j|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|PaddlePaddle|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Darknet|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|scikit-learn| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|H2O.ai|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
+|Spark Mlib & PySpark|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |
 
 
 ## Current Progress: ##
