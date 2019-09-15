@@ -57,15 +57,15 @@ Model Morphis
 |Caffe|  |   |   |    |    |    |    |    |  X  |    |    |    |    |    |    |    |    |    |    |    |
 |Caffe2|   |   |   |    |    |    |    |    |  |  X  |    |    |    |    |    |    |    |    |    |    |
 |MXNet|   |   |   |    |    |    |    |    |  |  |  X  |    |    |    |    |    |    |    |    |    |
-|TorchScript|   |  |   |   |   |   |   |   |    |    |  X  |   |    |    |    |    |    |    |    |    |
-|NCNN|  |   |   |    |    |    |    |   |   |   |  |   |  |  X  |    |    |    |    |    |    |
-|CNTK|  |   |   |    |    |    |    |    |    |    |    |    |   |  X |   |    |    |    |    |    |
+|TorchScript|   |  |   |   |   |   |   |   |    |  |  | X  |    |    |    |    |    |    |    |    |
+|NCNN|  |   |   |    |    |    |    |    |    |    |  |   | X |   |    |    |    |    |    |    |
+|CNTK|  |   |   |    |    |    |    |    |    |    |    |  |   |  X |   |    |    |    |    |    |
 |Deeplearning4j|  |   | |  |   | |  | |    |    |    |    |    |    |  X  |    |    |    |    |    |
 |PaddlePaddle|  |   |   |    |   |  |  |  |  |  |  |    |    |    |    |  X |    |    |    |    |
-|Darknet|   |   |   |    |    |    |    |    |    |    |    |    |    |    |  |    |  X  |    |    |    |
-|scikit-learn| |   |   |    |    |    |    |    |    |    |    |    |    |    |  |  |    |  X  |    |    |
-|H2O.ai|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | X   |    |
-|Spark Mlib & PySpark|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X  |
+|Darknet|   |   |   |    |    |    |    |    |   |  |  |    |  |   |  |    |  X  |    |    |    |
+|scikit-learn| |   |   |  |  |    |  |  |  |    |    |    |    |    |  |  |    |  X  |    |    |
+|H2O.ai|   |   |   |    |    |  |  |    |    |  |    |  |    |  |    |   |    |    | X   |    |
+|Spark Mlib & PySpark|  |   |   |  |  |  |  |  |    |  |  |  |  |  |  |  |  |  |    |  X  |
 
 
 ## Current Progress: ##
