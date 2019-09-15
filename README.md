@@ -62,8 +62,8 @@ Model Morphis
 |CNTK|  |   |   |    |    |    |    |    |    |    |    |    |   |  X |   |    |    |    |    |    |
 |Deeplearning4j|  |   | |  |   | |  | |    |    |    |    |    |    |  X  |    |    |    |    |    |
 |PaddlePaddle|  |   |   |    |   |  |  |  |  |  |  |    |    |    |    |  X |    |    |    |    |
-|Darknet|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    | X   |    |    |    |    |
-|scikit-learn| |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    | X   |    |    |    |
+|Darknet|   |   |   |    |    |    |    |    |    |    |    |    |    |    |  |    |  X  |    |    |    |
+|scikit-learn| |   |   |    |    |    |    |    |    |    |    |    |    |    |  |  |    |  X  |    |    |
 |H2O.ai|   |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    | X   |    |
 |Spark Mlib & PySpark|  |   |   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X  |
 
