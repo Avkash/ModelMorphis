@@ -33,8 +33,7 @@ Model Morphis
 |Darknet   |.cfg   |   |   |
 |scikit-learn   | .pkl  |   |   |
 |H2O.ai    |MOJO Models .zip   |   |   |
-|SparkML Models  |   |   |   |
-|---|---|---|---| 
+|Spark Mlib & PySpark  | .ml  |   |   |
 
 ## Current Progress: ##
 - I have completed the model transformation engine one type to another supporting 90% of above-listed models
