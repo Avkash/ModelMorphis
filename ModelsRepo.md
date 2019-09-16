@@ -11,6 +11,10 @@ A list of model repo for various prebuilt models is listed here.
 - [Tensorflow Models](https://github.com/tensorflow/models)
 - [Tensorflow various Models Repo](https://github.com/tensorflow/models/tree/master/research)
 
+## TensorFlow.js Models ##
+- [Pre-trained Models](https://www.tensorflow.org/js/models)
+- [Models Repo](https://github.com/tensorflow/tfjs-models)
+
 ## PyTorch Models ##
 - [Pre-trained PyTorch Models](https://github.com/Cadene/pretrained-models.pytorch)
 
