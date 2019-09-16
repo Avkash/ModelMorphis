@@ -1,5 +1,9 @@
 # ModelMorphis
-Model Morphis
+Model Morphism: Transform, test and compare model from one library type to another
+
+## Documentation ##
+- [Models Repo](https://github.com/Avkash/ModelMorphis/blob/master/ModelsRepo.md)
+- [Help](https://github.com/Avkash/ModelMorphis/blob/master/HELP.md)
 
 ## Project Details: Visualize an ML or Deep Learning Model ##
 - Transform models from one type to another
