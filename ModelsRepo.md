@@ -29,3 +29,5 @@ A list of model repo for various prebuilt models is listed here.
  - [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
  - [Caffe2 Model Zoo](https://github.com/caffe2/models)
 
+## Intel OpenVINO Models ##
+ - [Pre-trained Models](https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models)
