@@ -16,4 +16,8 @@ A list of model repo for various prebuilt models is listed here.
 
 ## CoreML Models ## 
  - [Awesome CoreML Models](https://github.com/likedan/Awesome-CoreML-Models) 
+ 
+## Caffe/Caffe2 Models Zoo ##
+ - [Caffe Model Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+ - [Caffe2 Model Zoo](https://github.com/caffe2/models)
 
