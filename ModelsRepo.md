@@ -15,6 +15,10 @@ A list of model repo for various prebuilt models is listed here.
 - [Pre-trained Models](https://www.tensorflow.org/js/models)
 - [Models Repo](https://github.com/tensorflow/tfjs-models)
 
+## TensorFlow Lite Models ##
+- [Model Details](https://www.tensorflow.org/lite/models)
+- [Model List with details](https://www.tensorflow.org/lite/guide/hosted_models)
+
 ## PyTorch Models ##
 - [Pre-trained PyTorch Models](https://github.com/Cadene/pretrained-models.pytorch)
 
